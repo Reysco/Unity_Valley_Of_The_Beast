@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79b2d8694d7b5bf46b88e7fc7cf13025, type: 3}
+  m_Name: WaterDirtAction
+  m_EditorClassIdentifier: 
+  canPlow:
+  - {fileID: 11400000, guid: 776a5626c7de7074cbe21a9397ceb14c, type: 2}

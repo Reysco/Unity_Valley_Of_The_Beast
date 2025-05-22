@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4cfbeca1d9a746848a4aaa7c4bec9f7e, type: 3}
+  m_Name: Charlote
+  m_EditorClassIdentifier: 
+  Name: Charlote
+  portrait: {fileID: 362411094703635263, guid: 296adc30cdd26ec4f8c14c58cc344232, type: 3}

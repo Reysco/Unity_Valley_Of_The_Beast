@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e0e56b322366f284797d5bcdaac81e84, type: 3}
+  m_Name: Iron Ore
+  m_EditorClassIdentifier: 
+  Name: Iron Ore
+  id: 8
+  stackable: 1
+  icon: {fileID: -8878991942929039074, guid: aa1cc82a2dde6fd47b6f6605dd911aeb, type: 3}
+  onAction: {fileID: 0}
+  onTileMapAction: {fileID: 0}
+  onItemUsed: {fileID: 0}
+  crop: []
+  iconHighlight: 0
+  itemPrefab: {fileID: 0}
+  size: {x: 1, y: 1}

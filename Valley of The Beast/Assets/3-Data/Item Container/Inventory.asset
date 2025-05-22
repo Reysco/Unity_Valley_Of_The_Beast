@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4c5f8ed3ab811d4e88c5b9f7be665f1, type: 3}
+  m_Name: Inventory
+  m_EditorClassIdentifier: 
+  slots:
+  - item: {fileID: 11400000, guid: 7b36543d1cea26141af23c73ae9e416c, type: 2}
+    count: 0
+  - item: {fileID: 11400000, guid: aa23e561dd375d44fb222de469626dc1, type: 2}
+    count: 0
+  - item: {fileID: 11400000, guid: 5380c6f7416228641b93c9e845137e77, type: 2}
+    count: 0
+  - item: {fileID: 11400000, guid: dd546ea013ceca24391191080f7e45d9, type: 2}
+    count: 0
+  - item: {fileID: 11400000, guid: cb080ed901a1930438ca9cb6ec88a84b, type: 2}
+    count: 20
+  - item: {fileID: 11400000, guid: 4eef853d40887e848b7b505a2fe4a867, type: 2}
+    count: 0
+  - item: {fileID: 0}
+    count: 0
+  - item: {fileID: 0}
+    count: 0
+  - item: {fileID: 0}
+    count: 0
+  - item: {fileID: 11400000, guid: 14b1b9eea04141f42b1f53d12150f252, type: 2}
+    count: 950
+  - item: {fileID: 11400000, guid: 74f16dafa1ac55244bd500f07097ff7c, type: 2}
+    count: 993
+  - item: {fileID: 11400000, guid: 25f607c99542dd243b960dd24d86056d, type: 2}
+    count: 985
+  - item: {fileID: 11400000, guid: c686002a7bafb1b4a9062fc3b9a7b2b4, type: 2}
+    count: 960
+  - item: {fileID: 11400000, guid: ef3b7197a8eaf4c479b2f3145c90dd8f, type: 2}
+    count: 10
+  - item: {fileID: 11400000, guid: 83e425f5574b9d44f9375427b1d1e332, type: 2}
+    count: 168
+  - item: {fileID: 11400000, guid: d5f555895d00eb94cad797b1627eeaeb, type: 2}
+    count: 987
+  - item: {fileID: 0}
+    count: 0
+  - item: {fileID: 0}
+    count: 0
+  - item: {fileID: 0}
+    count: 0
+  - item: {fileID: 0}
+    count: 0
+  - item: {fileID: 0}
+    count: 0
+  - item: {fileID: 0}
+    count: 0
+  - item: {fileID: 0}
+    count: 0
+  - item: {fileID: 0}
+    count: 0
+  - item: {fileID: 0}
+    count: 0
+  - item: {fileID: 0}
+    count: 0
+  - item: {fileID: 0}
+    count: 0
+  - item: {fileID: 0}
+    count: 0
+  - item: {fileID: 0}
+    count: 0
+  - item: {fileID: 0}
+    count: 0
+  - item: {fileID: 0}
+    count: 0
+  - item: {fileID: 0}
+    count: 0
+  - item: {fileID: 0}
+    count: 0
+  - item: {fileID: 0}
+    count: 0
+  - item: {fileID: 0}
+    count: 0
+  - item: {fileID: 0}
+    count: 0
+  - item: {fileID: 0}
+    count: 0
+  - item: {fileID: 0}
+    count: 0
+  - item: {fileID: 0}
+    count: 0
+  - item: {fileID: 0}
+    count: 0
+  isDirty: 0

@@ -1,2 +1,8 @@
-# Unity_Valley_Of_The_Beast
-Um novo jogo estilo RPG e Farm, onde enfrentamos monstros diversos e cultivamos para criar um mundo novo
+# Unity_The_Game
+One of my first created games
+
+
+📌 Licença
+
+Este projeto está sob a licença **Todos os direitos reservados**.  
+Nenhum conteúdo pode ser reutilizado ou redistribuído sem autorização.

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d1c76dc2317ca8b43858df940797379f, type: 3}
+  m_Name: Crop Corn Plantation
+  m_EditorClassIdentifier: 
+  timeToGrow: 20
+  yield: {fileID: 11400000, guid: 83e425f5574b9d44f9375427b1d1e332, type: 2}
+  count: 6
+  sprites:
+  - {fileID: -4919403074659823604, guid: 50a0798cf2397ae4db71659ff8c074e1, type: 3}
+  - {fileID: -5076674159377935135, guid: 50a0798cf2397ae4db71659ff8c074e1, type: 3}
+  - {fileID: -3969473543841022205, guid: 50a0798cf2397ae4db71659ff8c074e1, type: 3}
+  - {fileID: 3924039384287522623, guid: 50a0798cf2397ae4db71659ff8c074e1, type: 3}
+  - {fileID: 1249997543516816220, guid: 50a0798cf2397ae4db71659ff8c074e1, type: 3}
+  witheredSprite: {fileID: 5262055022618618642, guid: 50a0798cf2397ae4db71659ff8c074e1, type: 3}
+  growthStageTimes: 0200000005000000090000000e00000014000000
+  dryProbability: 1
+  replacement: 1
+  isGreenhouse: 0
+  summer: 0
+  autumn: 0
+  spring: 0
+  winter: 0
